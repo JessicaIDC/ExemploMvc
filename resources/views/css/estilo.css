@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+ titulo{
+    text-position: absolute;
+    left: 50%;
+    font-family: Arial;
+    font-size: large;
+    color: #1c7430;
+}
+texto{
+    text-align: justify-all;
+    text-indent: 50px;
+    font-family: "Times New Roman";
+    color: black;
+    font-size: small;
+}
